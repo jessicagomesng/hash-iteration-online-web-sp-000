@@ -20,4 +20,4 @@ def select_winner(passengers)
 end
 
 def happy_birthday
-end 
+end
